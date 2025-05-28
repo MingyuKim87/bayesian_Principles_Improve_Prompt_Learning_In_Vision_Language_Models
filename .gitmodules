@@ -1,0 +1,9 @@
+[submodule "BP_CLIP"]
+	path = BP_CLIP
+	url = https://github.com/MingyuKim87/BP_CLIP.git
+[submodule "MNIST_EMNIST"]
+	path = MNIST_EMNIST
+	url = https://github.com/MingyuKim87/BP_CLIP_EMNIST.git
+[submodule "Three_Classes"]
+	path = Three_Classes
+	url = https://github.com/MingyuKim87/BP_CLIP_Three_Classes.git
